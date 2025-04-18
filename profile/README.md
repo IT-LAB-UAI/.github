@@ -14,6 +14,18 @@ Our GitHub organization hosts a variety of repositories encompassing different a
 
 All projects within this organization are licensed under the [MIT License](LICENSE), unless stated otherwise. This license permits reuse, modification, and distribution, provided proper attribution is given.
 
+## 👥 Contributors & Maintainers
+
+### 🧑‍🏫 Professors
+
+- [**Danilo Borquez**](https://github.com/DaniloBorquez)
+
+### 🎓 Students
+
+- [**Vittorio Cancino**](https://github.com/VittorioCancino)
+- [**Mateo Taito**](https://github.com/MateoTaito)
+
+
 ## 📬 Contact
 
 For inquiries, collaborations, or more information:
