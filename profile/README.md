@@ -24,11 +24,3 @@ All projects within this organization are licensed under the [MIT License](LICEN
 
 - [**Vittorio Cancino**](https://github.com/VittorioCancino)
 - [**Mateo Taito**](https://github.com/MateoTaito)
-
-
-## 📬 Contact
-
-For inquiries, collaborations, or more information:
-
-- **Email**: [lab_inf_vina@uai.cl](lab_inf_vina@uai.cl)  
-- **Website**: [https://www.uai.cl](https://www.uai.cl)
